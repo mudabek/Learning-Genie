@@ -1,2 +1,1 @@
-# 207-homework-06
-CSC 207 (Fall 2016) Homework: Learning Genie
+Program that plays guessing game with the user and build question database along the way
